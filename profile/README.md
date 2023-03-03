@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="logo" width='10%' align="center" src="https://gitlab.com/uploads/-/system/group/avatar/63587472/big-logo-min.png" />
+<img alt="logo" width='150em' align="center" src="https://gitlab.com/uploads/-/system/group/avatar/63587472/big-logo-min.png" />
 </div>
 
 # Entiende S.r.l.
