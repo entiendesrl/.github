@@ -22,3 +22,4 @@ Il team Tech IT di Entiende S.r.l. è composto da tre membri che lavorano allo s
 - [Michele Esposito](https://github.com/mikesposito), [Full Stack Developer]
 - [Cristian Di Carlo](https://github.com/Okazakee), [Web Developer]
 - [Manuela Ienuso](https://github.com/emmegray), [Web Developer]
+- [Emanuele Esposito](https://github.com), [Product Manager]
